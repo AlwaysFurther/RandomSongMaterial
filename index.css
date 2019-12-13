@@ -1,0 +1,12 @@
+.container {
+	margin-top:50px;
+	background-color:#CFD8DC;
+}
+
+[class*="col"] {
+	height:100px;
+}
+
+#title {
+	margin-bottom:50px;
+}
